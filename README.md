@@ -9,7 +9,7 @@
 ## Imagen
 ¡Haga click en la imagen para interactuar con la página!
 <div style="text-align: center;">
-  <a href="https://my-landing-page-valentin-e-bravo.netlify.app/" target="_blank">
+  <a href="https://mini-proyecto-log-in.netlify.app/" target="_blank">
     <img src="assets/imagen-presentacion.png" alt="Imagen formulario" width=100%>
   </a>
 </div>
